@@ -14,7 +14,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Kimchiigu&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimchiigu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimchiigu)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
   <tr>
@@ -23,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 🏆 GitHub Trophies
