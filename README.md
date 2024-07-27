@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kimchiigu&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kimchiigu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimchiigu&langs_count=8" alt="Top Language"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimchiigu&langs_count=8&theme=dark&hide_border=false" alt="Top Language"/>
     </td>
   </tr>
   <tr>
