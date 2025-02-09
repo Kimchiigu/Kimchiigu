@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.JS Framework and Firebase<br>👨‍💻 All of my projects are available at https://github.com/Kimchiigu<br>📫 How to reach me christopher.hygunawan@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/christopher-hygunawan/<br>⚡ Fun fact Tailwind is more sigma than Bootstrap
+🌱 I’m currently learning Motoko and Blockchain Technology<br>👨‍💻 All of my projects are available at https://github.com/Kimchiigu<br>📫 How to reach me christopher.hygunawan@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/christopher-hygunawan/<br>⚡ Fun fact Tailwind is more sigma than Bootstrap
 
 
 ## 🌐 Socials:
