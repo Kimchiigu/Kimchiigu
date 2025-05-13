@@ -1,12 +1,12 @@
 # Christopher Hardy Gunawan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;Blockchain+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;AI+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-- 🌱 Currently learning **Kotlin and Motoko Blockchain**
+- 🌱 Currently learning **Svelte and Go Language**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kimchiigu)
 - 📫 Reach me at: **christopher.hygunawan@gmail.com**
 - 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/christopher-hygunawan/)
