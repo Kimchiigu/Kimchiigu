@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🌱 Currently learning **Svelte and Go Language**
+- 🌱 Currently learning **AWS and NextJS Language**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kimchiigu)
 - 📫 Reach me at: **christopher.hygunawan@gmail.com**
 - 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/christopher-hygunawan/)
