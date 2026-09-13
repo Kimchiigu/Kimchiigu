@@ -34,5 +34,4 @@
   <a href="https://x.com/Kimchii73" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/christopher-hygunawan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@christopher.hygunawan" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
 </p>
