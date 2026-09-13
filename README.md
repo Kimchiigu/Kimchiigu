@@ -1,9 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Software Engineer;AI Engineer;Continuous+Learner" alt="Typing SVG" />
-</div>
-
 <p>Welcome to my page! </br> I'm Christopher Hardy Gunawan, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" width="13"/> <b>Jakarta, Indonesia</b>
 
 
